@@ -1,3 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +3.3Va
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3.3Vb
+K POWER, PWR
+$ENDCMP
+#
+$CMP GND_A
+K POWER, PWR
+$ENDCMP
+#
+$CMP GND_B
+K POWER, PWR
+$ENDCMP
+#
 #End Doc Library
