@@ -2,10 +2,19 @@ My KiCAD Components
 ===================
 
 
-In here are 3 components
-1) m.2 TE connector footprint
-2) PCIe Schematic component
-3) PCIe Molex connector footprint.
+In this git repo are a number of components
+
+# Footprints
+1) HR911105a (taken from https://github.com/Guzunty/Pi and updated for the A version - 0.9mm diff in the led pins)
+2) M.2 NGFF connector from TE
+
+# Schematic Components
+1) FE2.1 (7 port usb hub chip - works well)
+2) FTDI FT230XS (usb to uart)
+3) SP232ACN-L (MAX232 like chip, UART to RS232)
+4) two extra 3.3v lines
+5) ADP2303 (DC/DC buck convertor/switch reg)
+6) FSUSB20 (fairchild chip for switching between 2 usb busses)
 
 Use with caution....
 
