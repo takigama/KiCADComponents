@@ -26,4 +26,9 @@
   (pad 12 thru_hole circle (at 6.64972 4.69984) (size 2.032 2.032) (drill 1.00076) (layers *.Cu *.SilkS *.Mask))
   (pad 0 thru_hole circle (at -7.65048 -3.2004) (size 2.54 2.54) (drill 1.6002) (layers *.Cu *.SilkS *.Mask))
   (pad 0 thru_hole circle (at 7.74954 -3.2004) (size 2.54 2.54) (drill 1.6002) (layers *.Cu *.SilkS *.Mask))
+  (model Connect.3dshapes/RJ45_8.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.4 0.4 0.4))
+    (rotate (xyz 0 0 0))
+  )
 )
