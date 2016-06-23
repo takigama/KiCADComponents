@@ -134,4 +134,9 @@
   (pad "" np_thru_hole circle (at 10 -0.025) (size 1.6 1.6) (drill 1.6) (layers *.Cu))
   (pad "" smd rect (at -10.35 -4.5) (size 1.2 2.75) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 10.35 -4.5) (size 1.2 2.75) (layers F.Cu F.Paste F.Mask))
+  (model ../../../../../home/paulr/owncloud.home/Electronics/KiCadLibs/MyKiCadLibs.pretty/M.2_key_B_TE.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -62,4 +62,9 @@
   (pad B2 thru_hole circle (at 9 -3.25) (size 1 1) (drill 0.4) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -1.65 0) (size 2.35 2.35) (drill 2.35) (layers *.Cu))
   (pad "" np_thru_hole circle (at -10.8 0) (size 2.35 2.35) (drill 2.35) (layers *.Cu))
+  (model /home/paulr/owncloud.home/Electronics/KiCadLibs/MyKiCadLibs.pretty/PCIe_x1.wrl
+    (at (xyz 0.002 0.002 0))
+    (scale (xyz 0.393 0.393 0.393))
+    (rotate (xyz 0 0 180))
+  )
 )
